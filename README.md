@@ -7,3 +7,5 @@ the carbon offset metrics in tons, number od building suitable for panel install
 The data for this application is downloaded from https://www.kaggle.com/jboysen/google-project-sunroof Kaggle . The data
 is collected and made available by Google’s Sunroof project. Google uses their satellite map images to estimate the amount
 of the sunlight each building’s roof in US receives. They also have estimates for the potential solar energy generation for the roof facing in all 4 directions and flat roof.
+
+application at http://192.81.211.233:8050/ 
