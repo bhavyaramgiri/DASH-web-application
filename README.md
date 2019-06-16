@@ -8,4 +8,6 @@ The data for this application is downloaded from https://www.kaggle.com/jboysen/
 is collected and made available by Google’s Sunroof project. Google uses their satellite map images to estimate the amount
 of the sunlight each building’s roof in US receives. They also have estimates for the potential solar energy generation for the roof facing in all 4 directions and flat roof.
 
+For detailed information read the PDF report.
+
 application at http://192.81.211.233:8050/ 
