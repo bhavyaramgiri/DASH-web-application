@@ -30,7 +30,7 @@ image = '/home/bhavya/Desktop/DV/DASH/projectsunroof.png'
 encoded_image = base64.b64encode(open(image, 'rb').read())
 tree = '/home/bhavya/Desktop/DV/DASH/tree.JPEG'
 encoded_tree = base64.b64encode(open(tree, 'rb').read())
-mapbox_access_token = 'pk.eyJ1IjoiYmhhdnlhcmFtZ2lyaSIsImEiOiJjanR6d3lqdDgycng5M3lxdW5tcWN3bW5hIn0.15q7MVN8v1rkemwfomu-gA'
+mapbox_access_token = 'paste your access code here'
 
 
 
